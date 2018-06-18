@@ -3,3 +3,5 @@ INDEX VERSION 1.130
 /Hello-World3/src
 /home/joseph/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4143710665.index
 /Hello-World4/src
+/home/joseph/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/699820543.index
+/HelloWeb/src

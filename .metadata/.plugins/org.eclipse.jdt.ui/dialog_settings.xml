@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="/home/joseph/Documents" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="/home/joseph/Documents/SprinWebJar" key="org.eclipse.jdt.ui.lastextjar"/>
 	<section name="javadoc">
 		<item value="public" key="access"/>
 		<item value="false" key="noindex"/>
@@ -48,6 +48,9 @@
 		<item value="630" key="DIALOG_HEIGHT"/>
 		<item value="299" key="DIALOG_X_ORIGIN"/>
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
 	</section>
 	<section name="completion_proposal_size">
 	</section>

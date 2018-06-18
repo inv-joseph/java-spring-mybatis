@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist.zip"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-websocket-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-websocket-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-websocket-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-webmvc-portlet-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-webmvc-portlet-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-webmvc-portlet-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-webmvc-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-webmvc-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-webmvc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-web-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-web-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-web-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-tx-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-tx-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-tx-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-test-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-test-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-test-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-oxm-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-oxm-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-oxm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-orm-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-orm-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-messaging-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-messaging-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-messaging-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-jms-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-jms-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-jms-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-jdbc-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-jdbc-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-jdbc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-instrument-tomcat-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-instrument-tomcat-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-instrument-tomcat-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-instrument-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-instrument-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-instrument-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-expression-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-expression-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-core-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-core-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-context-support-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-context-support-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-context-support-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-context-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-context-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-beans-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-beans-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-aspects-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-aspects-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-aspects-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-aop-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-aop-4.1.6.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-aop-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/org.springframework.core-3.0.4.release.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/SprinWebJar/spring-web-3.2.1.release.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/SprinWebJar/org.springframework.web-3.0.6.release.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/SprinWebJar/org.springframework.web.servlet-3.0.0.release.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/SprinWebJar/org.springframework.expression-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/SprinWebJar/org.springframework.context.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/SprinWebJar/org.springframework.beans.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/SprinWebJar/org.springframework.asm-3.0.1.release.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/log4j.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
