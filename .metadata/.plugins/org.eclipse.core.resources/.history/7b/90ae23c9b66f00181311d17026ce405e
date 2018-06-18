@@ -1,0 +1,34 @@
+package com.innovaturelabs;
+import javax.sql.DataSource;
+ 
+
+public interface StudentDAO {
+	
+	private JdbcTemplate jdbcTemplate;  
+	  
+	public void setJdbcTemplate(JdbcTemplate jdbcTemplate) {  
+	    this.jdbcTemplate = jdbcTemplate;  
+	}  
+	
+	public int getStudentCount(){  
+		String SQL = "select count(*) from Student";
+		int rowCount = jdbcTemplate.queryForInt(SQL);
+		return rowCount;
+	}  
+	  
+	public int saveStudent(Student s){  
+		
+	    String query="INSERT INTO student (NAME, BRANCH, PERCENTAGE, PHONE, EMAIL ) VALUES (?, ?, ?, ?, ?)";  
+	    return jdbcTemplate.update(query, new Object[]{"Zara James", "NON-IT",89,995366552,"ayyan@ahhaa.com"});  
+	}  
+//	public int updateEmployee(Employee e){  
+//	    String query="update employee set   
+//	    name='"+e.getName()+"',salary='"+e.getSalary()+"' where id='"+e.getId()+"' ";  
+//	    return jdbcTemplate.update(query);  
+//	}  
+//	public int deleteEmployee(Employee e){  
+//	    String query="delete from employee where id='"+e.getId()+"' ";  
+//	    return jdbcTemplate.update(query);  
+//	}  
+
+}

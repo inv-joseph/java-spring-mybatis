@@ -1,0 +1,4 @@
+browser-choice=0
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n<external location\="/usr/bin/google-chrome" name\="Chrome"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/SpringWeb/|*|http\://localhost\:8080/SpringWeb/WEB-INF/classes/java/com/innovaturelabs/spring/web/controller/LoginController.java|*|file\:///media/disk2/SpringWeb/build/web/image/bookicon.jpg|*|file\:/media/disk2/SpringWeb/build/web/image/bookicon.jpg|*|http\://localhost\:8080/Hello-World4/Hello|*|http\://localhost\:8080/Hello-World4/WEB-INF/classes/Student.xml|*|http\://localhost\:8080/Hello-World4/WEB-INF/classes/MyBatisInsert.java|*|http\://localhost\:8080/Hello-World4/index.jsp|*|http\://localhost\:8080/Hello-World3/index.jsp|*|file\:////var/lock/apache2|*|file\:////var/lock|*|file\:////var|*|http\://localhost\:8080/Hello-World3/|*|
