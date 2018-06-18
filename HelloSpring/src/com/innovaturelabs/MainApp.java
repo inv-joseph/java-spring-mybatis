@@ -31,7 +31,8 @@ public static void main(String[] args) {
 	StudentJDBCTemplate studentJDBCTemplate = 
 	         (StudentJDBCTemplate) context.getBean("studentJDBCTemplate");
 	
-	//studentJDBCTemplate.create("Zara Dhivakaran", "NOT-IT", 95, 999855541, "joseph@temple.com");
+	// CRUD Oeration
+	studentJDBCTemplate.create("Zara Dhivakaran", "NOT-IT", 95, 999855541, "joseph@temple.com");
 	
 	//Student st = studentJDBCTemplate.getStudent(4);
 	
