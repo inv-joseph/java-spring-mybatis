@@ -7913,3 +7913,12 @@ java.lang.Exception: stack trace
 
 !ENTRY org.eclipse.core.resources 2 10035 2018-06-18 10:56:02.666
 !MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-18 11:17:50.409
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-06-18 11:17:50.476
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2018-06-18 11:22:34.207
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.

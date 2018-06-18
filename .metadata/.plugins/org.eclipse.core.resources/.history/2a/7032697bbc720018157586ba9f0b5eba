@@ -39,7 +39,7 @@ public class StudentJDBCTemplate {
 	   }
 	   public void update(Integer id, String name, String branch, int percent, int phone, String email){
 	      String SQL = "update STUDENT set NAME = ?,BRANCH=?,PERCENTAGE=?,PHONE=?,EMAIL=? where id = ?";
-	      jdbcTemplateObject.update(SQL,name,branch,percent,phone,email, id);
+	      jdbcTemplateObject.update(SQL, age, id);
 	      System.out.println("Updated Record with ID = " + id );
 	      return;
 	   }

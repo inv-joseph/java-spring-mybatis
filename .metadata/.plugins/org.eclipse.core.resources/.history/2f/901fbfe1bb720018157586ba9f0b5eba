@@ -35,14 +35,10 @@ public static void main(String[] args) {
 	
 	//Student st = studentJDBCTemplate.getStudent(4);
 	
-	//List<Student> st_list = studentJDBCTemplate.listStudents();
-	
-	//studentJDBCTemplate.update(3,"Dharam Raj", "SHIP-WOOD", 75, 999855000, "dharam@tetete.com");
-	
-	//studentJDBCTemplate.delete(3);
+	List<Student> st_list = studentJDBCTemplate.listStudents();
 	
 	
-	System.out.println("------Record Updated --------\n");
+	System.out.println("------Records Of student --------\n"+ st_list.toString());
     
    }
 }

@@ -1,7 +1,5 @@
 package com.innovaturelabs;
 
-import java.util.List;
-
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import com.innovaturelabs.StudentJDBCTemplate;
@@ -33,16 +31,10 @@ public static void main(String[] args) {
 	
 	//studentJDBCTemplate.create("Zara Dhivakaran", "NOT-IT", 95, 999855541, "joseph@temple.com");
 	
-	//Student st = studentJDBCTemplate.getStudent(4);
-	
-	//List<Student> st_list = studentJDBCTemplate.listStudents();
-	
-	//studentJDBCTemplate.update(3,"Dharam Raj", "SHIP-WOOD", 75, 999855000, "dharam@tetete.com");
-	
-	//studentJDBCTemplate.delete(3);
+	Student st = studentJDBCTemplate.getStudent(4);
 	
 	
-	System.out.println("------Record Updated --------\n");
+	System.out.println("------Records Of student --------\n"+ st.toString());
     
    }
 }

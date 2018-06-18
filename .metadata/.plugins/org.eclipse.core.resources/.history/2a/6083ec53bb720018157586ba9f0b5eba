@@ -20,26 +20,26 @@ public class StudentJDBCTemplate {
 	      return;
 	   }
 	   public Student getStudent(Integer id) {
-	      String SQL = "select * from STUDENT where id = ?";
+	      String SQL = "select * from Student where id = ?";
 	      Student student = jdbcTemplateObject.queryForObject(SQL, 
 	         new Object[]{id}, new StudentMapper());
 	      
 	      return student;
 	   }
 	   public List<Student> listStudents() {
-	      String SQL = "select * from STUDENT";
+	      String SQL = "select * from Student";
 	      List <Student> students = jdbcTemplateObject.query(SQL, new StudentMapper());
 	      return students;
 	   }
 	   public void delete(Integer id) {
-	      String SQL = "delete from STUDENT where id = ?";
+	      String SQL = "delete from Student where id = ?";
 	      jdbcTemplateObject.update(SQL, id);
 	      System.out.println("Deleted Record with ID = " + id );
 	      return;
 	   }
-	   public void update(Integer id, String name, String branch, int percent, int phone, String email){
-	      String SQL = "update STUDENT set NAME = ?,BRANCH=?,PERCENTAGE=?,PHONE=?,EMAIL=? where id = ?";
-	      jdbcTemplateObject.update(SQL,name,branch,percent,phone,email, id);
+	   public void update(Integer id, Integer age){
+	      String SQL = "update Student set age = ? where id = ?";
+	      jdbcTemplateObject.update(SQL, age, id);
 	      System.out.println("Updated Record with ID = " + id );
 	      return;
 	   }
