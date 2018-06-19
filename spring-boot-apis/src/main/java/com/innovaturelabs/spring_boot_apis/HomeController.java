@@ -15,11 +15,7 @@ public class HomeController {
         return"index";  
     }  
 	 
-//	@RequestMapping("/hello")  
-//    public String hello(){  
-//        return"Hello Spring Boot Started Successfully!";  
-//    } 
-	
+
 	@RequestMapping(value="/save", method=RequestMethod.POST)  
     public ModelAndView save(@ModelAttribute User user){  
         ModelAndView modelAndView = new ModelAndView();  
