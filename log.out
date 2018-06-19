@@ -194,3 +194,6 @@ Rendering view [org.springframework.web.servlet.view.InternalResourceView: name 
 Added model object 'message' of type [java.lang.String] to request in view with name 'hello'
 Forwarding to resource [/WEB-INF/jsp/hello.jsp] in InternalResourceView 'hello'
 Successfully completed request
+Closing WebApplicationContext for namespace 'HelloWeb-servlet': startup date [Mon Jun 18 17:49:49 IST 2018]; root of context hierarchy
+Returning cached instance of singleton bean 'lifecycleProcessor'
+Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@60214fcc: defining beans [helloController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.web.servlet.view.InternalResourceViewResolver#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor]; root of factory hierarchy
