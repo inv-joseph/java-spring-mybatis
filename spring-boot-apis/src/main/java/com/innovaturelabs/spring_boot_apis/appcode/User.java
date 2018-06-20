@@ -1,5 +1,7 @@
-package com.innovaturelabs.spring_boot_apis;
+package com.innovaturelabs.spring_boot_apis.appcode;
+import org.springframework.stereotype.Component;
 
+@Component
 public class User {
 	String name;  
     String email;  

@@ -31,5 +31,10 @@
 	<classpathentry kind="lib" path="/home/joseph/Documents/spring-boot/jar_files/spring-aop-4.3.4.RELEASE.jar"/>
 	<classpathentry kind="lib" path="/home/joseph/Documents/spring-boot/jar_files/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="/home/joseph/Documents/spring-boot-starter-thymeleaf-1.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-boot-starter-data-jpa-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-boot-starter-jdbc-1.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-jdbc-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/javax.persistence.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

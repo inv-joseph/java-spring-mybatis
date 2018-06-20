@@ -1,5 +1,5 @@
 package com.innovaturelabs.spring_boot_apis;
-
+import com.innovaturelabs.spring_boot_apis.appcode.*;
 import org.springframework.web.bind.annotation.RequestMapping;  
 
 import org.springframework.web.bind.annotation.ModelAttribute; 
@@ -13,8 +13,7 @@ public class HomeController {
 	@RequestMapping("/")  
     public String index(){  
         return"index";  
-    }  
-	 
+    }
 
 	@RequestMapping(value="/save", method=RequestMethod.POST)  
     public ModelAndView save(@ModelAttribute User user){  
