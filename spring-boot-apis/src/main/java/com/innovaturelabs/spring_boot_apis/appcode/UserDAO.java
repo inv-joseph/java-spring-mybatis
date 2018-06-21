@@ -3,7 +3,6 @@ package com.innovaturelabs.spring_boot_apis.appcode;
 import java.util.List;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
-
 import org.springframework.stereotype.Component;
 
 @Component
@@ -19,16 +18,18 @@ public class UserDAO implements IUserDAO{
 	}
 	
 	public User getUser(Integer id) {
-		String SQL = "select * from User where id = ?";
+		String SQL = "select * from user where id = ?";
 	    User user = jdbc.queryForObject(SQL, 
 	    new Object[]{id}, new UserMapper());  
 	    return user;
 	}
-//	   public List<Student> listStudents() {
-//	      String SQL = "select * from STUDENT";
-//	      List <Student> students = jdbcTemplateObject.query(SQL, new StudentMapper());
-//	      return students;
-//	   }
+	
+    public List<User> listUser() {
+      String SQL = "select * from user";
+      List <User> users = jdbc.query(SQL, new UserMapper());
+      return users;
+    }
+    
 //	   public void delete(Integer id) {
 //	      String SQL = "delete from STUDENT where id = ?";
 //	      jdbcTemplateObject.update(SQL, id);

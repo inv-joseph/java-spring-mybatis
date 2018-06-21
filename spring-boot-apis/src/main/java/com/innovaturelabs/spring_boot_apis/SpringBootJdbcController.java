@@ -2,9 +2,14 @@ package com.innovaturelabs.spring_boot_apis;
 
 import com.innovaturelabs.spring_boot_apis.appcode.*;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.List;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 
 @RestController
 public class SpringBootJdbcController {
@@ -18,14 +23,20 @@ public class SpringBootJdbcController {
         return "data inserted Successfully";  
     }
 	
-	@RequestMapping(value="/create")  
-    public String create(){  
-		User u = new User();
-		u.setName("Sada Shiv");
-		u.setEmail("sada-shiv@innomail.com");
-		
+	@RequestMapping(value="/user/create",method = RequestMethod.POST)  
+    public String create(User u){  
 		userService.create(u);
-		
-        return "data inserted Successfully";  
+        return "User created"+u.getName();  
+    }
+	
+	@RequestMapping(value="/user/get",method = RequestMethod.GET)  
+    public User getUser(Integer id){  
+        return userService.getUser(id);  
+    }
+	
+	@RequestMapping(value="/user/get-users",method = RequestMethod.GET)  
+    public ResponseEntity<List<User>> listUsers(){  
+        List <User> list = userService.listUser();
+        return new ResponseEntity<List<User>>(list,HttpStatus.OK);
     }
 }

@@ -9,7 +9,7 @@ public class UserMapper implements RowMapper<User> {
 	public User mapRow(ResultSet rs, int rowNum) throws SQLException {
 		User usr = new User();
 		usr.setName(rs.getString("name"));
-		usr.setEmail(rs.getString("branch"));
+		usr.setEmail(rs.getString("email"));
 	    return usr;    
 	}
 }
