@@ -26,4 +26,16 @@ public class UserService implements IUserService {
 	public List<User> listUser() {
 		return usrDAO.listUser();
 	}
+	
+	@Override
+	public void delete(Integer id) {
+		usrDAO.delete(id);
+		return;
+	}
+	
+	@Override
+	public void update(Integer id,User u) {
+		usrDAO.update(id,u);
+		return;
+	}
 }

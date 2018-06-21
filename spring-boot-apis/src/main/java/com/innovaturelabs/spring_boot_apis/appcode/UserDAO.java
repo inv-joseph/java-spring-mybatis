@@ -30,17 +30,16 @@ public class UserDAO implements IUserDAO{
       return users;
     }
     
-//	   public void delete(Integer id) {
-//	      String SQL = "delete from STUDENT where id = ?";
-//	      jdbcTemplateObject.update(SQL, id);
-//	      System.out.println("Deleted Record with ID = " + id );
-//	      return;
-//	   }
-//	   public void update(Integer id, String name, String branch, int percent, int phone, String email){
-//	      String SQL = "update STUDENT set NAME = ?,BRANCH=?,PERCENTAGE=?,PHONE=?,EMAIL=? where id = ?";
-//	      jdbcTemplateObject.update(SQL,name,branch,percent,phone,email, id);
-//	      System.out.println("Updated Record with ID = " + id );
-//	      return;
-//	   }
+    public void delete(Integer id) {
+      String SQL = "delete from user where id = ?";
+      jdbc.update(SQL, id);
+      return;
+    }
+	   
+    public void update(Integer id, User u){
+    	String SQL = "update user set name = ?,email=? where id = ?";
+    	jdbc.update(SQL,u.getName(),u.getEmail(), id);
+	    return;
+	}
 
 }

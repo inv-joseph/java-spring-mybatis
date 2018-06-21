@@ -39,4 +39,17 @@ public class SpringBootJdbcController {
         List <User> list = userService.listUser();
         return new ResponseEntity<List<User>>(list,HttpStatus.OK);
     }
+	
+	@RequestMapping(value="/user/delete",method = RequestMethod.POST)  
+    public void delete(Integer id){  
+        userService.delete(id);
+        return;
+    }
+	
+	@RequestMapping(value="/user/update",method = RequestMethod.POST)  
+    public void update(Integer id,User u){  
+        userService.update(id,u);
+        return;
+    }
+	
 }

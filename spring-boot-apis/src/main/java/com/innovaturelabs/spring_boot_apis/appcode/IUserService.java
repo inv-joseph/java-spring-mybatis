@@ -8,4 +8,6 @@ public interface IUserService {
 	boolean create(User user);
 	User getUser(Integer id);
 	List<User> listUser();
+	void delete(Integer id);
+	void update(Integer id,User u);
 }

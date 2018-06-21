@@ -4574,3 +4574,135 @@ org.eclipse.core.internal.resources.ResourceException: Project 'HelloWeb' is not
 2018-06-21 12:04:27,035 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2018-06-21 12:04:27,036 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-06-21 12:04:27,037 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:31:56,062 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:31:56,111 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:31:56,123 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:31:56,131 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:32:12,866 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:32:12,866 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:32:12,867 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:32:12,867 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:32:40,863 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:32:40,864 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:32:40,865 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:32:40,865 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:32:47,350 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:32:47,351 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:32:47,352 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:32:47,352 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:34:17,425 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:34:17,426 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:34:17,426 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:34:17,426 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:34:19,272 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:34:19,273 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:34:19,274 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:34:19,274 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:34:36,549 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:34:36,549 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:34:36,550 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:34:36,550 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:35:14,934 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:35:14,935 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:35:14,937 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:35:14,937 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:35:17,790 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:35:17,790 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:35:17,791 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:35:17,792 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:35:22,915 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:35:22,916 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:35:22,916 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:35:22,920 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:35:28,491 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:35:28,491 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:35:28,492 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:35:28,492 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:36:19,071 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:36:19,071 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:36:19,073 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:36:19,073 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:36:33,550 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:36:33,550 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:36:33,551 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:36:33,551 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:37:08,941 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:37:08,941 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:37:08,942 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:37:08,942 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:37:19,064 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:37:19,065 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:37:19,066 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:37:19,066 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:37:26,143 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:37:26,144 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:37:26,145 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:37:26,146 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:38:02,005 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:38:02,006 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:38:02,007 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:38:02,007 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:38:11,457 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:38:11,458 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:38:11,459 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:38:11,459 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:38:18,724 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:38:18,724 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:38:18,725 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:38:18,725 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:40:55,205 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:40:55,206 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:40:55,206 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:40:55,206 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:41:07,159 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:41:07,159 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:41:07,160 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:41:07,160 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:41:22,305 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:41:22,306 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:41:22,307 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:41:22,307 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:41:29,610 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:41:29,610 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:41:29,611 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:41:29,611 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:41:58,020 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:41:58,020 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:41:58,021 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:41:58,021 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:42:01,120 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:42:01,125 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:42:01,126 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:42:01,126 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:42:06,740 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:42:06,741 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:42:06,741 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:42:06,742 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:42:29,078 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:42:29,078 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:42:29,079 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:42:29,079 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:42:40,267 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:42:40,268 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:42:40,268 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:42:40,269 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:45:15,647 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:45:15,648 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:45:15,648 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:45:15,648 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:46:17,058 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:46:17,059 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:46:17,060 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:46:17,060 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 14:47:39,501 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:47:39,502 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 14:47:39,502 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 14:47:39,502 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 15:08:06,771 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 15:08:06,802 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 15:08:06,813 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 15:08:06,822 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
+2018-06-21 15:11:34,027 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 15:11:34,037 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-06-21 15:11:34,038 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-21 15:11:34,039 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joseph/eclipse-workspace/spring-boot-apis/src/test/resources
