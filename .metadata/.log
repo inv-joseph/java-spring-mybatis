@@ -341,3 +341,6 @@ java.lang.Exception: stack trace
 
 !ENTRY org.eclipse.jface.text 2 0 2018-06-21 10:12:52.899
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2018-06-21 15:21:17.790
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
