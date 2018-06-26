@@ -9,7 +9,7 @@
 	</section>
 	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
 		<item value="true" key="ShowStatusLine"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=spring-boot-apis/\/home\/joseph\/.m2\/repository\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.6\/tomcat-embed-core-8.5.6.jar&amp;lt;org.apache.catalina.startup(Tomcat$1.class[&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=spring-boot-apis/src\/main\/java&amp;lt;com.innovaturelabs.spring_boot_apis{SpringBootStart.java[SpringBootStart&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-boot-apis/\/home\/joseph\/Documents\/spring-boot\/jar_files\/spring-boot-1.4.2.RELEASE.jar&amp;lt;org.springframework.boot(SpringApplication.class[SpringApplication&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=SpringBootMyBatis/src\/main\/java&amp;lt;com.innovaturelabs.springboot.mybatis.SpringBootMyBatis{SpringBootMain.java[SpringBootMain&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
 		<section name="DialogBoundsSettings">
 			<item value="600" key="DIALOG_WIDTH"/>
 			<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
@@ -17,5 +17,12 @@
 			<item value="352" key="DIALOG_X_ORIGIN"/>
 			<item value="38" key="DIALOG_Y_ORIGIN"/>
 		</section>
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.RUNTIME_CLASSPATH_ADVANCED_DIALOG">
+		<item value="255" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="303" key="DIALOG_HEIGHT"/>
+		<item value="374" key="DIALOG_X_ORIGIN"/>
+		<item value="118" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

@@ -65,6 +65,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/joseph/eclipse-workspace/Servers"/>
+			<item value="/home/joseph/eclipse-workspace/spring-boot-apis"/>
 			<item value="/home/joseph/eclipse-workspace/HelloWeb"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -78,13 +80,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.innovaturelabs.spring_boot_apis"/>
+			<item value="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis"/>
 		</list>
 		<list key="groupId">
-			<item value="com.innovaturelabs"/>
+			<item value="com.innovaturelabs.springboot.mybatis"/>
 		</list>
 		<list key="artifactId">
-			<item value="spring-boot-apis"/>
+			<item value="SpringBootMyBatis"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

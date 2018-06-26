@@ -15,8 +15,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 public class SpringBootJdbcController {
 	
 	@Autowired
-	private IUserService userService;    
-	
+	private IUserService userService;
+		
 	@RequestMapping(value="/save")  
     public String index(){  
         //jdbc.execute("insert into user(name,email)values('josephinno','joseph@innolabs.com')");
@@ -26,7 +26,7 @@ public class SpringBootJdbcController {
 	@RequestMapping(value="/user/create",method = RequestMethod.POST)  
     public String create(User u){  
 		userService.create(u);
-        return "User created"+u.getName();  
+        return "User created :"+u.getName();  
     }
 	
 	@RequestMapping(value="/user/get",method = RequestMethod.GET)  
