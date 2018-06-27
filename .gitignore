@@ -1,3 +1,7 @@
+RemoteSystemsTempFiles
+RemoteSystemsTempFiles/*
+RemoteSystemsTempFiles/*.*
+RemoteSystemsTempFiles/.*
 .metadata/*
 .metadata/.*
 .metadata/.*/
