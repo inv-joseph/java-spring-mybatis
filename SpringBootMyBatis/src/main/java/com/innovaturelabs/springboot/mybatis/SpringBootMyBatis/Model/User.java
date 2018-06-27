@@ -3,8 +3,15 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class User {
+	Integer id;
 	String name;  
-    String email;  
+    String email;
+    public Integer getId() {  
+        return id;  
+    }  
+    public void setId(Integer id) {  
+        this.id = id;  
+    }
     public String getName() {  
         return name;  
     }  
