@@ -34,5 +34,6 @@
 	<classpathentry kind="lib" path="/home/joseph/Documents/mybatis-3.0.2.jar.zip"/>
 	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-jdbc-4.1.6.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/home/joseph/Documents/mysql-connector.jar.zip"/>
+	<classpathentry kind="lib" path="/home/joseph/Documents/spring-boot-starter-data-mongodb-1.1.0.RELEASE.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

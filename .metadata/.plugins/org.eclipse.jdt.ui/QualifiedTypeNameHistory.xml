@@ -24,4 +24,9 @@
 <fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.service.UserService"/>
 <fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.Mappers.IUserMapper"/>
 <fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.DAO.UserDAO"/>
+<fullyQualifiedTypeName name="org.apache.catalina.mapper.Mapper"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.springframework.data.annotation.Id"/>
+<fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.MongoMapper.ICustomerRepository"/>
+<fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.Model.Customer"/>
 </qualifiedTypeNameHistroy>
