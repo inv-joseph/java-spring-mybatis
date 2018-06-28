@@ -1,3 +1,5 @@
+mongo-data
+mongo-data/*.*
 RemoteSystemsTempFiles
 RemoteSystemsTempFiles/*
 RemoteSystemsTempFiles/*.*
