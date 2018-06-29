@@ -35,5 +35,6 @@
 	<classpathentry kind="lib" path="/home/joseph/Documents/spring-framework-4.1.6.RELEASE-dist/spring-framework-4.1.6.RELEASE/libs/spring-jdbc-4.1.6.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="/home/joseph/Documents/mysql-connector.jar.zip"/>
 	<classpathentry kind="lib" path="/home/joseph/Documents/spring-boot-starter-data-mongodb-1.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/joseph/Downloads/hibernate-core-5.3.1.Final.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

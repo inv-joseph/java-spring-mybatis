@@ -29,4 +29,8 @@
 <fullyQualifiedTypeName name="org.springframework.data.annotation.Id"/>
 <fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.MongoMapper.ICustomerRepository"/>
 <fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.Model.Customer"/>
+<fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.Model.Person"/>
+<fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.DAO.PersonDAO"/>
+<fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.Mappers.IPersonMapper"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration"/>
 </qualifiedTypeNameHistroy>

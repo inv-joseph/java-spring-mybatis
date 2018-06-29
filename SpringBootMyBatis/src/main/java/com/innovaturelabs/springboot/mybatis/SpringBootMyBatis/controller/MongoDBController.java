@@ -35,13 +35,11 @@ public class MongoDBController {
 		
 	@RequestMapping(value="/customer")  
     public Customer getCustomer(){
-		//return repository.save(new Customer("Alice Smith", "AlicewSmith@gmail.com"));
 		return repository.findByName("Alice Smith");
     }
 	
 	@RequestMapping(value="/customer/list")  
     public List<Customer> getCustomers(){
-		//return repository.save(new Customer("Alice Smith", "AlicewSmith@gmail.com"));
 		return repository.findAll();
     }
 }

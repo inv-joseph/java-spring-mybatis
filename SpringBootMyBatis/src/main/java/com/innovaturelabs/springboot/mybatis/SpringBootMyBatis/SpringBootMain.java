@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
-@SpringBootApplication (exclude = {DataSourceAutoConfiguration.class })
+@SpringBootApplication (exclude = {DataSourceAutoConfiguration.class})
 @ComponentScan({"com.innovaturelabs.springboot.mybatis.SpringBootMyBatis"})
 public class SpringBootMain {
 	public static void main( String[] args )

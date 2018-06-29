@@ -1,9 +1,22 @@
 package com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.Model;
 import org.springframework.stereotype.Component;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="Person")
+
 @Component
 public class User {
-	Integer id;
+	@Id
+	@Column(name="id")
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private int id;
 	String name;  
     String email;
     public Integer getId() {  
