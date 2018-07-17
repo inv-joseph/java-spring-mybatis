@@ -33,4 +33,12 @@
 <fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.DAO.PersonDAO"/>
 <fullyQualifiedTypeName name="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis.Mappers.IPersonMapper"/>
 <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+<fullyQualifiedTypeName name="com.springboot.hibernate.SpringbootHibernate.Model.Note"/>
+<fullyQualifiedTypeName name="org.springframework.data.annotation.CreatedDate"/>
+<fullyQualifiedTypeName name="com.springboot.hibernate.SpringbootHibernate.repository.NoteRepository"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jms.JndiConnectionFactoryAutoConfiguration"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.EnableAutoConfiguration"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration"/>
 </qualifiedTypeNameHistroy>

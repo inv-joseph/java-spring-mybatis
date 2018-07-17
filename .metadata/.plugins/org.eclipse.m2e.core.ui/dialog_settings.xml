@@ -37,6 +37,19 @@
 		<item value="27" key="y"/>
 		<item value="584" key="height"/>
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/joseph/eclipse-workspace/SpringbootHibernate"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
@@ -65,6 +78,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/joseph/eclipse-workspace/Hello-World4"/>
+			<item value="/home/joseph/eclipse-workspace/SpringbootHibernate"/>
 			<item value="/home/joseph/eclipse-workspace/Servers"/>
 			<item value="/home/joseph/eclipse-workspace/spring-boot-apis"/>
 			<item value="/home/joseph/eclipse-workspace/HelloWeb"/>
@@ -80,13 +95,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.innovaturelabs.springboot.mybatis.SpringBootMyBatis"/>
+			<item value="com.springboot.hibernate.SpringBootHibernate"/>
 		</list>
 		<list key="groupId">
-			<item value="com.innovaturelabs.springboot.mybatis"/>
+			<item value="com.springboot.hibernate"/>
 		</list>
 		<list key="artifactId">
-			<item value="SpringBootMyBatis"/>
+			<item value="SpringBootHibernate"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
