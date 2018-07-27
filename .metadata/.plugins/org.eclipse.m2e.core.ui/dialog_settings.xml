@@ -63,12 +63,14 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="SpringWeb"/>
 			<item value="HelloWeb"/>
 			<item value="Hello-World4"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringWeb"/>
 			<item value="HelloWeb"/>
 			<item value="Hello-World4"/>
 		</list>
